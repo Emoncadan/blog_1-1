@@ -17,6 +17,7 @@ cmd
 
 git clone https://github.com/hortegon/blog_1.git
 cd blog_1
+hola
 
 2. Crear Entorno Virtual
 cmd
